@@ -22,7 +22,7 @@ The foundational course focusing on inferential thinking, computational thinking
   - [ ] Lab 02: Data Types
   - [ ] Homework 01: Causality and Expressions
   - [ ] Project 1: World Progress
-  - *(Add more as you go...)*
+  - 
 
 ### 2. [Data 100: Principles and Techniques of Data Science](./Data-100-Principles/)
 *Upcoming...* Bridging the gap from foundational data science to advanced machine learning and real-world data pipelines.
